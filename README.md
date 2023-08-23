@@ -1,2 +1,2 @@
 # FT-M2-Exercises
-Solved FrontEnd exercises
+Solved exercises of FrontEnd
